@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-03",
+  "version": 2,
+  "topic": "ChatGPT ad visits earn $0.89 vs $2.45 for Google search ads (Kaiser & Schulze working paper)",
+  "video_url": "https://raw.githubusercontent.com/vineethvankara/stratm-reels/main/2026-11-03/v2/reel.mp4",
+  "cover_url": "https://raw.githubusercontent.com/vineethvankara/stratm-reels/main/2026-11-03/v2/cover.png",
+  "cover_jpg_url": "https://raw.githubusercontent.com/vineethvankara/stratm-reels/main/2026-11-03/v2/cover.jpg",
+  "instagram_caption": "A ChatGPT ad visit is worth about a third of a Google one.\n\nA new working paper from the Vienna University of Economics and Business and Frankfurt School tracked about 10 billion shop visits from June 2025 to August 2026. In the US, a paid ChatGPT visit earned $0.89 in revenue. A Google search ad visit earned $2.45. Conversion was 0.37% against 1.17%.\n\nWhy it matters: the authors put a fair price at about $0.26 per click at search's rate of return. Early advertisers have paid far more. The data is early and not peer-reviewed, and India wasn't in the study, but the gap is too big to ignore.\n\nWhat to do this week:\n1. Keep ChatGPT ad tests to a small, fixed slice of your search budget.\n2. Judge them on revenue per visit and orders, not CTR or CPC.\n3. Set up ChatGPT as its own source in GA4 so it doesn't hide inside \"referral\".\n\nA cheap click is only cheap if it sells something.\n\nAt StratM, we help brands test new AI channels with clear revenue metrics from day one.\n\n#AIinMarketing #ChatGPTAds #PerformanceMarketing #DigitalMarketingIndia #StratM",
+  "youtube_title": "ChatGPT ad visits earn a third of Google's",
+  "youtube_description": "New research on US online shops: a paid ChatGPT visit earned $0.89 in revenue, against $2.45 for a Google search ad visit.\nIt's early, unreviewed data, so test small and judge on revenue, not clicks.\nFollow StratM for daily AI-in-marketing news, made practical.\n\n#Shorts #AIinMarketing #ChatGPTAds\n\nSource: PPC Land, 2 November 2026",
+  "youtube_tags": [
+    "Shorts",
+    "AIinMarketing",
+    "ChatGPTAds"
+  ],
+  "linkedin_text": "A ChatGPT ad visit is worth about a third of a Google one.\n\nA new working paper from researchers at the Vienna University of Economics and Business and Frankfurt School of Finance & Management tracked about 10 billion online shop visits between June 2025 and August 2026. In the US, a paid ChatGPT visit earned $0.89 in revenue. A Google search ad visit earned $2.45. Conversion was 0.37% against 1.17%.\n\nThe authors estimate a fair price of about $0.26 per click at search's rate of return. Early advertisers have paid well above that. The paper is not yet peer-reviewed, one advertiser drives most of the paid purchases, and India was not in the sample. Still, the gap is large enough to shape how marketers plan their first tests.\n\nThree moves for this week:\n1. Keep ChatGPT ad tests to a small, fixed slice of search budget.\n2. Judge them on revenue per visit and orders, not CTR or CPC.\n3. Track ChatGPT as its own source in GA4 so it does not disappear into referral traffic.\n\nA cheap click is only cheap if it sells something.\n\nWatch the 20-second version: {SHORT_URL}\n\n#AIinMarketing #ChatGPTAds #PerformanceMarketing #StratM"
+}
